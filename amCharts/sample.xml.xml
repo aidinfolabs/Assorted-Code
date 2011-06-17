@@ -1,0 +1,18 @@
+<chart>
+  <series>
+    <value xid="0">21 Jan</value>
+    <value xid="1">22 Jan</value>
+    <value xid="2">23 Jan</value>
+    <value xid="3">24 Jan</value>
+    <value xid="4">25 Jan</value>
+  </series>
+  <graphs>
+    <graph gid="0">
+      <value xid="0">91</value>
+      <value xid="1">87</value>
+      <value xid="2">68</value>
+      <value xid="3">30</value>
+      <value xid="4">52</value>
+    </graph>
+  </graphs>
+</chart>

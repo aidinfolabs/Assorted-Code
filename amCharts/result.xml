@@ -1,0 +1,54 @@
+
+<chart>
+    <series>
+        <value xid="0">2001</value>
+        <value xid="1">2002</value>
+        <value xid="2">2003</value>
+        <value xid="3">2004</value>
+        <value xid="4">2005</value>
+        <value xid="5">2006</value>
+        <value xid="6">2007</value>
+        <value xid="7">2008</value>
+        <value xid="8">2009</value>
+        <value xid="9">2010</value>
+        <value xid="10">2011</value>
+        <value xid="11">2012</value>
+        <value xid="12">2013</value>
+        <value xid="13">2014</value>
+        <value xid="14">2015</value>
+        <value xid="15">2016</value>
+        <value xid="16">2017</value>
+        <value xid="17">2018</value>
+        <value xid="18">2019</value>
+        <value xid="19">2020</value>
+    </series>
+    <graphs>
+        <graph gid="0">
+            <value xid="0">-3505</value>
+            <value xid="1">0</value>
+            <value xid="2">0</value>
+            <value xid="3">0</value>
+            <value xid="4">2089897</value>
+            <value xid="5">8499991</value>
+            <value xid="6">15083320</value>
+            <value xid="7">24081392</value>
+            <value xid="8">70840615</value>
+            <value xid="9">106762856</value>
+            <value xid="10">50557988</value>
+            <value xid="11">52206697</value>
+            <value xid="12">36289804</value>
+            <value xid="13">19398281</value>
+            <value xid="14">1250000</value>
+            <value xid="15">0</value>
+            <value xid="16">0</value>
+            <value xid="17">0</value>
+            <value xid="18">0</value>
+            <value xid="19">0</value>
+        </graph>
+    </graphs>
+</chart>
+
+
+
+
+

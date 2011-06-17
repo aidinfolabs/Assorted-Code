@@ -1,0 +1,59 @@
+/* Generated with EditiX at Mon Dec 27 11:34:42 GMT 2010 */
+
+body {
+	background-color:#fff;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+	margin:0;
+	padding:0;
+	}
+
+h1 {
+	font-size:110%;
+	}
+
+h2 {
+	font-size:105%;
+	}
+	
+#header h1 {
+	color:#069;
+	font-size:120%;
+	padding:0 10px;
+}
+
+#nav {
+	background-color:#069;
+	color:#fff;
+	height:20px;
+	padding:0px 10px;
+	margin:0;
+}
+#nav li {
+	display: inline; 
+	list-style-type: none;
+	padding:0 10px;
+}	
+#nav li a {
+	color:#fff;
+	text-decoration:none;
+}
+
+#content {
+	padding:10px;
+}
+
+.title {
+	color:#444;
+}
+	
+.parent {
+}
+
+.child {
+	margin-left:50px;
+	background-color:#eee;
+}
+.child h2 {
+	font-size:100%;
+}
